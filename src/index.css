@@ -92,12 +92,12 @@ body {
   }
   
   .alert-error {
-    background-color: #ff0000;
+    background-color: #e41212;
     color: #ffffff;
   }
   
   .alert-success {
-    background-color: #00ff00;
+    background-color: #0fe90f;
     color: #000000;
   }
   
